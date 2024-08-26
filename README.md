@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm i` 
+to install all the dependencies and then below command to start the app
 
 ### `npm start`
 
@@ -13,6 +15,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### Steps to interact and functionalities achieved:
+1 The top navbar is transparent and fixed. So, when we scroll down it will also move.
+2 Then the main image will also change after every 3 seconds.
+3 As the app is responsive so for mobile screens instead of navbar items a hamburger icon will be shown which on click show menu and on click of
+  'X' button hide menu.
+4 Then there is image part which will move in right direction when user scroll down and left when user move up.
+5 Then there is a Our International Interior section in which place fontsize increase when we scroll down and decrease when we
+  scroll up.
+6 Then at last there is a footer section.
 
 ### `npm test`
 
